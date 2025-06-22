@@ -1,6 +1,6 @@
 <h1 style="font-size: 400%; text-align:center;"> Community Impact Analysis-Bridging Data and Real-World Outcomes: Homeless Population in Fayetteville, NC </h1>
 
-<div style="font-size: 125%; text-align:center;"> Employee Retention </div>
+<div style="font-size: 125%; text-align:center;"> Addressing the Homeless Community </div>
 
 <div style="font-size: 125%; text-align:center;"> Written by Victor Chang | MBA 610 - Foundations of Data Analytics </div>
 
