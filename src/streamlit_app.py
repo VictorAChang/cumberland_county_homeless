@@ -79,6 +79,8 @@ category_styles = {
     "Library": {"color": "#1abc9c"},
 }
 
+st.toast("👉 Use the sidebar to filter resources.", icon="✨")
+
 # Sidebar Filters
 st.sidebar.title("📌 Filter Categories")
 st.sidebar.markdown("### Select resource types:")
