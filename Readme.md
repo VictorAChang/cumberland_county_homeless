@@ -30,7 +30,7 @@ The 2014 Plan to End Homelessness emphasizes that inadequate access to supportiv
 
 This data was gathered during homeless missions hosted by church congregations. The numbers gathered point to the concentration of homeless populations in various areas of Cumberland County. Data was gathered visually and through conversations with homeless people, however it is not possible to be 100% sure of the accuracy of these numbers, since homeless people tend to move so frequently. The following data show areas of concentration where homeless communities tend to gather. This data is not all inclusive.
 
-<h1 style="text-align:center;"> Homeless Concentrations in Cumberland County </h1>
+<h3 style="text-align:center;"> Homeless Concentrations in Cumberland County </h3>
 <p align="center">
 
 | Name                | Address           | Latitude | Longitude | People | Category |
@@ -48,7 +48,7 @@ This data was gathered during homeless missions hosted by church congregations. 
 
 <i> Purpose of Data </i>
 
-This data was gathered from the Annual Homelessness Assessment Report and should help identify the current trends over time for homeless populations in Cumberland County. The dates for the data do not account for the same information throughout all years and only a few of the columns are analyzed in this research project. The image below is a snapshot of the data gathered from the provided spreadsheets. The columns underlined are the only ones being analyzed in this project.
+This data was gathered from the Annual Homelessness Assessment Report and should help identify the current trends over time for homeless populations in Cumberland County. The dates for the data do not account for the same information throughout all years and only a few of the columns are analyzed in this research project. The image below is a snapshot of the data gathered from the provided spreadsheets. The columns in red boxes are the only ones being analyzed in this project.
 
 ![alt text](images/dataframe.png)
 
@@ -79,7 +79,8 @@ The link below redirects you to an application hosted on streamlit that allows f
 <h3>Purpose:</h3>
 <p>Translate spatial data into actionable solutions that address gaps in homeless services across Cumberland County.</p>
 
-<h3>Key Findings:</h3>
+<i>Key Findings:</i>
+
 <ul>
   <li><strong>High Concentration Areas:</strong> Homeless populations are most concentrated in downtown Fayetteville, with smaller but notable clusters west and south of downtown.</li>
   <li><strong>Shelter Distribution:</strong> Existing shelters are located near downtown, leaving western and southern populations without nearby overnight options.</li>
@@ -89,14 +90,16 @@ The link below redirects you to an application hosted on streamlit that allows f
   <li><strong>Libraries:</strong> Only two public libraries are shown, with one west of downtown and one downtown—potentially limiting access to internet, learning resources, and community support services.</li>
 </ul>
 
-<h3>Service Gaps Identified:</h3>
+<i>Service Gaps Identified:</i>
+
 <ul>
   <li>Lack of shelters and warming centers in west and south Fayetteville</li>
   <li>No health clinics or mobile medical units in underserved areas</li>
   <li>Limited distribution of social support hubs like libraries and job centers</li>
 </ul>
 
-<h3>Recommendations:</h3>
+<i>Recommendations:</i>
+
 <ul>
   <li><strong>Deploy Mobile Outreach Units:</strong> Deliver basic healthcare, hygiene kits, and social work support directly to underserved areas weekly or biweekly.</li>
   <li><strong>Establish Day Centers:</strong> Open daytime spaces for mental health counseling, shower/laundry access, storage lockers, and computer/internet access.</li>
@@ -105,7 +108,8 @@ The link below redirects you to an application hosted on streamlit that allows f
   <li><strong>Community-Based Partnerships:</strong> Collaborate with churches, local businesses, and nonprofits to open warming stations and offer overnight shelter space during winter months.</li>
 </ul>
 
-<h3>Next Steps:</h3>
+<i>Next Steps:</i>
+
 <ul>
   <li>Prioritize resource expansion based on spatial gaps identified in the map</li>
   <li>Engage local agencies for data validation and alignment with existing outreach efforts</li>
@@ -113,11 +117,11 @@ The link below redirects you to an application hosted on streamlit that allows f
   <li>Utilize a more comprehensive application that can be mutually beneficial to government agencies, NGOs, and the homeless population to stay informed of resources and resource allocation, and find ways to better serve the community</li>
 </ul>
 
-<b style="font-size: 125%;"> Ethical Considerations </b>
+<h1 style="text-align:center;">Ethical Considerations</h1>
 
 When conducting geospatial analysis on homelessness, ethical responsibility must guide all aspects of data collection, visualization, and interpretation. Mapping where individuals experiencing homelessness are located requires special care to avoid violating privacy or reinforcing social stigma. Publicly sharing precise locations could expose vulnerable populations to targeting, displacement, or surveillance. To mitigate this, data should be aggregated or generalized to protect identities while still supporting effective planning and outreach. Additionally, transparency about how data is collected and used is critical. The U.S. Department of Housing and Urban Development (HUD) emphasizes that data gathered through programs like the Homeless Management Information System (HMIS) must be handled with strict confidentiality and clear communication about its intended use (HUD Exchange, 2018). Finally, any digital tool or public report produced should empower service providers and community stakeholders, never criminalize or marginalize those the data represents. Ethical data practices are essential to ensure this project remains rooted in respect, safety, and human dignity.
 
-<b style="font-size: 125%;"> Conclusion </b>
+<h1 style="text-align:center;">Conclusions</h1>
 
 This analysis reveals significant disparities in the distribution of services for individuals experiencing homelessness in Cumberland County. While downtown Fayetteville houses many resources, key populations living west and south of downtown lack nearby access to shelters, healthcare, and warming centers. Visualizations and statistical trends highlight both the spatial mismatch of services and the growing need for responsive, equitable outreach. Recommendations emphasize deploying mobile services, increasing mental health and hygiene support, and creating collaborative infrastructure among local organizations. Ultimately, this project serves as a decision support tool that local agencies, nonprofits, and policy advocates can use to inform more just and effective homelessness interventions, rooted in both ethical integrity and community needs.
 
