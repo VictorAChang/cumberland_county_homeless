@@ -49,9 +49,10 @@ Improve coordination between agencies
 
 <b style="font-size: 125%;"> Data Visualization </b>
 
-• Pie/bar charts showing types of homelessness (sheltered, unsheltered)
-• Maps showing concentrations
-👉 [Launch the App](https://employee-retention-analysis.streamlit.app/)
+![alt text](images/fayetteville_homeless_trends.png)
+
+• Homeless Community Concentration and Resources
+👉 [Launch the App](https://cumberlandcountyhomeless.streamlit.app/)
 
 </br>
 
